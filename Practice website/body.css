@@ -1,0 +1,130 @@
+.p1{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.new-arrivals{
+    background-color: pink;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+.dress1{
+    background-color: bisque;
+}
+.dress{
+    width: 262px;
+    height: 320px;
+}
+.heels1{
+    background-color: bisque;
+}
+.heels{
+    width: 262px;
+    height: 320px;
+}
+.accesories1{
+    background-color: bisque;
+}
+.accesories{
+    width: 262px;
+    height: 320px;
+}
+.skirt1{
+    background-color: bisque;
+    height: 450px;
+}
+.skirt{
+    width: 262px;
+    height: 320px;
+}
+.plat1{
+    background-color: bisque;
+}
+.plat{
+    width: 262px;
+    height: 320px;
+}
+.big-div{
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 50px;
+}
+.shoes-div{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.shoes{
+    width: 300px;
+    height: 360px;
+}
+.shop-shoes{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 15px;
+}
+.clothes-div{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.clothes{
+    width: 300px;
+    height: 360px;
+}
+.shop-clothes{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 15px;
+}
+.bags-div{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.bag{
+    width: 300px;
+    height: 360px;
+}
+.shop-bags{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 15px;
+}
+.sunnies-div{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.sunnies{
+    width: 300px;
+    height: 360px;
+}
+.shop-sunnies{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 15px;
+}
